@@ -1,5 +1,5 @@
 # ViewBlur
-A simple library that uses RenderScript to apply a blur background on your Views
+A simple Android Module that uses RenderScript to apply a blur background on your Views
 
 ## How it works
 Just call `(yourView).setBlurredBackground(radius)`, to make your View background transparent and apply the blur effect.
